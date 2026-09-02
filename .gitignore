@@ -1,0 +1,36 @@
+# ── Data files (too large for Git) ────────────────────────────────────────────
+data/*/processed/
+data/*/raw/*.csv
+outputs/
+
+# Keep raw .ris files tracked
+!data/*/raw/*.ris
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+venv/
+.venv/
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
+.DS_Store
+.spyproject/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Large generated files ────────────────────────────────────────────────────
+*.gexf
+network_edgelist.txt
+
+# ── Archive of original code ─────────────────────────────────────────────────
+_archive/

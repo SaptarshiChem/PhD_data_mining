@@ -1,0 +1,11 @@
+Cluster_ID,Document_Count,Percentage,Top_5_Terms
+0,55,12.0%,recovery; reloading; mass; muscle mass; mice
+1,30,6.6%,hu; expression; unloading; skeletal; skeletal muscle
+2,51,11.2%,soleus; hs; soleus muscle; unloading; rats
+3,44,9.6%,mitochondrial; ros; pgc1α; disuse; mitophagy
+4,23,5.0%,wasting; muscle wasting; sarcopenia; loss; understanding
+5,17,3.7%,older; bed; hmb; bed rest; rest
+6,27,5.9%,microgravity; space; spaceflight; simulated; mitochondrial
+7,67,14.7%,skeletal; skeletal muscle; muscle atrophy; protein; role
+8,61,13.3%,group; immobilization; expression; protein; cast
+9,82,17.9%,mice; muscle atrophy; protein; immobilization; mass
